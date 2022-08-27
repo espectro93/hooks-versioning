@@ -84,8 +84,8 @@
                 <version>3.1.0</version>
                 <configuration>
                     <installHooks>
-                        <commit-msg>../hooks/commit-msg</commit-msg>
-                        <pre-commit>../hooks/pre-commit</pre-commit>
+                        <commit-msg>hooks/commit-msg</commit-msg>
+                        <pre-commit>hooks/pre-commit</pre-commit>
                     </installHooks>
                 </configuration>
                 <executions>

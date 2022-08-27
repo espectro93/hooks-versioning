@@ -9,5 +9,4 @@ public class HooksVersioningApplication {
     public static void main(String[] args) {
         SpringApplication.run(HooksVersioningApplication.class, args);
     }
-
 }
